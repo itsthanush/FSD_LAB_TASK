@@ -1,3 +1,3 @@
-# Task 20: Git Branching and Conflict Resolution
+FSD_LAB_GIT
 
-Description: feature branch, merge, rebase and conflict
+
