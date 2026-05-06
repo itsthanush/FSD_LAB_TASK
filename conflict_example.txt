@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-color: blue;
-=======
-color: green;
->>>>>>> feature/login
